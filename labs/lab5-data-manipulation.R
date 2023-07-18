@@ -18,3 +18,4 @@ ggplot(data = ep_rorbit, aes(x = planet_type, y = eccentricity, fill = planet_ty
   geom_bar(stat = "summary",
            fun = "mean")
 
+

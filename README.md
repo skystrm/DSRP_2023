@@ -1,4 +1,4 @@
-#### For this repository we are using the "[**NASA Exoplanets**](https://www.kaggle.com/datasets/adityamishraml/nasaexoplanets)**"** dataset.
+#### librFor this repository we are using the "[**NASA Exoplanets**](https://www.kaggle.com/datasets/adityamishraml/nasaexoplanets)**"** dataset.
 
 ## About this Dataset:
 
